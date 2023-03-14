@@ -1,5 +1,7 @@
 # Phishing URL Detection 
+![image1](https://user-images.githubusercontent.com/60722664/224990367-7369b023-23db-4529-8cc0-d6e37c5e11e6.JPG)
 
+![image2](https://user-images.githubusercontent.com/60722664/224990417-1f2389ec-ac09-46e2-b30a-213b0bd4e6ff.JPG)
 
 ## Table of Content
   * [Introduction](#introduction)
@@ -11,7 +13,7 @@
 
 ## Introduction
 
-The Internet has become an indispensable part of our life, However, It also has provided opportunities to anonymously perform malicious activities like Phishing. Phishers try to deceive their victims by social engineering or creating mockup websites to steal information such as account ID, username, password from individuals and organizations. Although many methods have been proposed to detect phishing websites, Phishers have evolved their methods to escape from these detection methods. One of the most successful methods for detecting these malicious activities is Machine Learning. This is because most Phishing attacks have some common characteristics which can be identified by machine learning methods. To see project click [here]("/").
+The Internet has become an indispensable part of our life, However, It also has provided opportunities to anonymously perform malicious activities like Phishing. Phishers try to deceive their victims by social engineering or creating mockup websites to steal information such as account ID, username, password from individuals and organizations. Although many methods have been proposed to detect phishing websites, Phishers have evolved their methods to escape from these detection methods. One of the most successful methods for detecting these malicious activities is Machine Learning. This is because most Phishing attacks have some common characteristics which can be identified by machine learning methods.
 
 
 ## Installation
@@ -70,8 +72,9 @@ Accuracy of various model used for URL detection
 
 Feature importance for Phishing URL Detection 
 <br><br>
-![image](https://user-images.githubusercontent.com/79131292/144603941-19044aae-7d7b-4e9a-88a8-6adfd8626f77.png)
 
+
+![image3](https://user-images.githubusercontent.com/60722664/224990883-c4e999a1-c539-4bb5-95ce-2c18eb923067.png)
 
 
 
