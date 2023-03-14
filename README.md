@@ -1,6 +1,5 @@
 # Phishing URL Detection 
-![image]
-![image]
+
 
 ## Table of Content
   * [Introduction](#introduction)
