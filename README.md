@@ -1,6 +1,6 @@
 # Phishing URL Detection 
-![image](C:\Users\nikitha\Documents)
-![image]()
+![image]
+![image]
 
 ## Table of Content
   * [Introduction](#introduction)
